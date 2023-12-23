@@ -1,7 +1,7 @@
 ## Hi, I'm Kelly 👩‍💻
 ### About Me
 - 🐶 I’m currently working on my personal project, PupPals, a social platform for finding playdates for dogs.
-- 🌱 I’m currently learning next.js and typescript
+- 🌱 I’m currently learning next.js and typescript.
 ### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,postman,jest)](https://skillicons.dev)
