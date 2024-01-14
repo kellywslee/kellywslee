@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning next.js and typescript.
 ### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,postman,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postman,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,supabase,mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,heroku)](https://skillicons.dev)
 <!--
