@@ -3,7 +3,7 @@
 - 🐶 I’m currently working on my personal project, PupPals, a social platform for finding playdates for dogs.
 - 🌱 I’m currently learning next.js and typescript.
 ### Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,materialui)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postman,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,supabase,mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,heroku,gcp)](https://skillicons.dev)
