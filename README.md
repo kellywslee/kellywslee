@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,materialui)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postman,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,supabase,mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,heroku,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,heroku,vite,gcp)](https://skillicons.dev)
 <!--
 **kellywslee/kellywslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
